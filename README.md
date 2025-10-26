@@ -186,12 +186,6 @@ git push -u origin main
 
 ---
 
-## 🧾 Licença
-
-Use como quiser. Sugestão: **Apache-2.0** ou **MIT**.
-
----
-
 ## 🙌 Contribuições
 
 PRs são bem‑vindos com mais atalhos, extras do LazyVim, temas, etc.
